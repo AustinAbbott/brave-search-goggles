@@ -1,9 +1,30 @@
-! name: Fediverse
-! description: Show results from Fediverse forums
+! name: Fediverse Forums
+! description: Show results exclusively from fediverse forums
 ! public: true
 ! author: Austin Abbott
 ! avatar: #6364ff
 
 $discard
-$boost,site=mastodon.social
+
+! Bluesky
+$boost,site=bsky.app
+
+! Kbin
+$boost,site=kbin.social
+
+! Lemmy
 $boost,site=lemmy.ml
+$boost,site=programming.dev
+
+! Mastodon
+$boost,site=hachyderm.io
+$boost,site=masto.ai
+$boost,site=mastodon.cloud
+$boost,site=mastodon.online
+$boost,site=mastodon.social
+$boost,site=mastodon.world
+$boost,site=mstdn.social
+$boost,site=universeodon.com
+
+! Threads
+$boost,site=threads.net
