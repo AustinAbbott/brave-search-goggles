@@ -3,3 +3,7 @@
 ! public: true
 ! author: Austin Abbott
 ! avatar: #6364ff
+
+$discard
+$boost,site=mastodon.social
+$boost,site=lemmy.ml
