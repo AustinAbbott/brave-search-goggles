@@ -13,18 +13,39 @@ $boost,site=bsky.app
 $boost,site=kbin.social
 
 ! Lemmy
+$boost,site=alien.top
 $boost,site=lemmy.ml
 $boost,site=programming.dev
 
 ! Mastodon
+$boost,site=flipboard.social
 $boost,site=hachyderm.io
 $boost,site=masto.ai
 $boost,site=mastodon.cloud
 $boost,site=mastodon.online
 $boost,site=mastodon.social
 $boost,site=mastodon.world
+$boost,site=mastodonapp.uk
+$boost,site=mountains.social
+$boost,site=mozilla.social
+$boost,site=mstdn.party
 $boost,site=mstdn.social
+$boost,site=social.notjustbikes.com
+$boost,site=social.vivaldi.net
 $boost,site=universeodon.com
+
+! Micro.blog
+$boost,site=micro.blog
+
+!Pixelfed
+$boost,site=metapixl.com
+$boost,site=pixel.tchncs.de
+$boost,site=pixelfed.art
+$boost,site=pixelfed.de
+$boost,site=pixelfed.dk
+$boost,site=pixelfed.social
+$boost,site=pixey.org
+$boost,site=pxlmo.com
 
 ! Threads
 $boost,site=threads.net
