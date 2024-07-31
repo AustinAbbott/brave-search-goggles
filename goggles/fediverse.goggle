@@ -15,6 +15,7 @@ $boost,site=kbin.social
 ! Lemmy
 $boost,site=alien.top
 $boost,site=lemmy.ml
+$boost,site=lemmy.world
 $boost,site=programming.dev
 
 ! Mastodon
@@ -37,7 +38,10 @@ $boost,site=universeodon.com
 ! Micro.blog
 $boost,site=micro.blog
 
-!Pixelfed
+! Misskey
+#boost,site=misskey.io
+
+! Pixelfed
 $boost,site=metapixl.com
 $boost,site=pixel.tchncs.de
 $boost,site=pixelfed.art
