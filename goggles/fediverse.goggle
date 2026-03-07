@@ -9,9 +9,6 @@ $discard
 ! Bluesky
 $boost,site=bsky.app
 
-! Kbin
-$boost,site=kbin.social
-
 ! Lemmy
 $boost,site=alien.top
 $boost,site=beehaw.org
@@ -36,7 +33,6 @@ $boost,site=mastodon.social
 $boost,site=mastodon.world
 $boost,site=mastodonapp.uk
 $boost,site=mountains.social
-$boost,site=mozilla.social
 $boost,site=mstdn.party
 $boost,site=mstdn.social
 $boost,site=social.notjustbikes.com
