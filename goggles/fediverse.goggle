@@ -9,18 +9,23 @@ $discard
 ! Bluesky
 $boost,site=bsky.app
 
-! Kbin
-$boost,site=kbin.social
-
 ! Lemmy
 $boost,site=alien.top
+$boost,site=beehaw.org
+$boost,site=feddit.org
 $boost,site=lemmy.ml
 $boost,site=lemmy.world
 $boost,site=programming.dev
+$boost,site=sh.itjust.works
+$boost,site=sopuli.xyz
 
 ! Mastodon
+$boost,site=aus.social
+$boost,site=chaos.social
 $boost,site=flipboard.social
+$boost,site=fosstodon.org
 $boost,site=hachyderm.io
+$boost,site=infosec.exchange
 $boost,site=masto.ai
 $boost,site=mastodon.cloud
 $boost,site=mastodon.online
@@ -28,18 +33,18 @@ $boost,site=mastodon.social
 $boost,site=mastodon.world
 $boost,site=mastodonapp.uk
 $boost,site=mountains.social
-$boost,site=mozilla.social
 $boost,site=mstdn.party
 $boost,site=mstdn.social
 $boost,site=social.notjustbikes.com
 $boost,site=social.vivaldi.net
+$boost,site=techhub.social
 $boost,site=universeodon.com
 
 ! Micro.blog
 $boost,site=micro.blog
 
 ! Misskey
-#boost,site=misskey.io
+$boost,site=misskey.io
 
 ! Pixelfed
 $boost,site=metapixl.com
