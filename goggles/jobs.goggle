@@ -1,0 +1,82 @@
+! name: Jobs
+! description: Show results exclusively from company career pages and reputable ATS platforms
+! public: true
+! author: Austin Abbott
+! avatar: #0a7ea4
+
+$discard
+
+! ATS Platforms
+$boost,site=ashbyhq.com
+$boost,site=boards.greenhouse.io
+$boost,site=jobs.lever.co
+$boost,site=apply.workable.com
+$boost,site=jobs.smartrecruiters.com
+$boost,site=myworkdayjobs.com
+$boost,site=bamboohr.com
+$boost,site=jobs.jobvite.com
+
+! Official Company Career Pages — Big Tech
+$boost,site=jobs.apple.com
+$boost,site=careers.google.com
+$boost,site=careers.microsoft.com
+$boost,site=amazon.jobs
+$boost,site=metacareers.com
+$boost,site=explore.jobs.netflix.net
+
+! Official Company Career Pages — SaaS
+$boost,site=careers.salesforce.com
+$boost,site=adobe.com
+$boost,site=careers.servicenow.com
+$boost,site=workday.com
+$boost,site=hubspot.com
+$boost,site=zendesk.com
+
+! Official Company Career Pages — Cloud & Infrastructure
+$boost,site=cloudflare.com
+$boost,site=fastly.com
+$boost,site=jobs.twilio.com
+
+! Official Company Career Pages — Semiconductors
+$boost,site=nvidia.com
+$boost,site=jobs.intel.com
+$boost,site=careers.amd.com
+$boost,site=careers.qualcomm.com
+$boost,site=broadcom.com
+$boost,site=careers.arm.com
+
+! Official Company Career Pages — Fintech
+$boost,site=stripe.com
+$boost,site=block.xyz
+$boost,site=plaid.com
+$boost,site=brex.com
+$boost,site=coinbase.com
+$boost,site=careers.robinhood.com
+$boost,site=affirm.com
+$boost,site=ripple.com
+
+! Official Company Career Pages — Enterprise Software
+$boost,site=oracle.com
+$boost,site=jobs.sap.com
+$boost,site=careers.ibm.com
+
+! Official Company Career Pages — Consumer Tech
+$boost,site=lifeatspotify.com
+$boost,site=careers.airbnb.com
+$boost,site=jobs.uber.com
+$boost,site=lyft.com
+$boost,site=careersatdoordash.com
+$boost,site=careers.snap.com
+$boost,site=careers.x.com
+$boost,site=shopify.com
+
+! Official Company Career Pages — Developer Tools
+$boost,site=github.careers
+$boost,site=about.gitlab.com
+$boost,site=hashicorp.com
+$boost,site=careers.datadoghq.com
+
+! Tech & Startup Job Boards
+$boost,site=wellfound.com
+$boost,site=workatastartup.com
+$boost,site=news.ycombinator.com
