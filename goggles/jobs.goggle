@@ -26,11 +26,11 @@ $boost,site=explore.jobs.netflix.net
 
 ! Official Company Career Pages — SaaS
 $boost,site=careers.salesforce.com
-$boost,site=adobe.com
+$boost,site=careers.adobe.com
 $boost,site=careers.servicenow.com
 $boost,site=workday.com
 $boost,site=hubspot.com
-$boost,site=zendesk.com
+$boost,site=careers.zendesk.com
 
 ! Official Company Career Pages — Cloud & Infrastructure
 $boost,site=cloudflare.com
@@ -38,7 +38,7 @@ $boost,site=fastly.com
 $boost,site=jobs.twilio.com
 
 ! Official Company Career Pages — Semiconductors
-$boost,site=nvidia.com
+$boost,site=careers.nvidia.com
 $boost,site=jobs.intel.com
 $boost,site=careers.amd.com
 $boost,site=careers.qualcomm.com
@@ -49,14 +49,14 @@ $boost,site=careers.arm.com
 $boost,site=stripe.com
 $boost,site=block.xyz
 $boost,site=plaid.com
-$boost,site=brex.com
-$boost,site=coinbase.com
+$boost,site=careers.brex.com
+$boost,site=careers.coinbase.com
 $boost,site=careers.robinhood.com
 $boost,site=affirm.com
 $boost,site=ripple.com
 
 ! Official Company Career Pages — Enterprise Software
-$boost,site=oracle.com
+$boost,site=careers.oracle.com
 $boost,site=jobs.sap.com
 $boost,site=careers.ibm.com
 
@@ -68,7 +68,7 @@ $boost,site=lyft.com
 $boost,site=careersatdoordash.com
 $boost,site=careers.snap.com
 $boost,site=careers.x.com
-$boost,site=shopify.com
+$boost,site=careers.shopify.com
 
 ! Official Company Career Pages — Developer Tools
 $boost,site=github.careers
