@@ -9,14 +9,10 @@ $discard
 ! ATS Platforms
 $boost,site=apply.workable.com
 $boost,site=applytojob.com
-$boost,site=bamboohr.com
 $boost,site=boards.greenhouse.io
 $boost,site=breezy.hr
 $boost,site=clearcompany.com
 $boost,site=freshteam.com
-$boost,site=hirezapp.com
-$boost,site=icims.com
-$boost,site=ikrut.com
 $boost,site=jobs.ashbyhq.com
 $boost,site=jobs.gem.com
 $boost,site=jobs.jobvite.com
@@ -34,11 +30,3 @@ $boost,site=recruiting.paylocity.com
 $boost,site=recruiting.ultipro.com
 $boost,site=secure.saashr.com
 $boost,site=taleo.net
-$boost,site=teamtailor.com
-
-! Marketing Site Discards
-$discard,site=www.bamboohr.com
-$discard,site=www.hirezapp.com
-$discard,site=www.icims.com
-$discard,site=www.ikrut.com
-$discard,site=www.teamtailor.com
